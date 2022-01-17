@@ -1,0 +1,20 @@
+{
+  "files": {
+    "LinkedList/LinkedList.java": [
+      {
+        "id": "ae8cdc43-136a-4d8f-a03a-5717d44a8626",
+        "line": 4,
+        "version": 591,
+        "index": 65
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "c571d3d4-83ed-4a00-8534-db6e9b31de17",
+        "line": 5,
+        "version": 1,
+        "index": 100
+      }
+    ]
+  }
+}
