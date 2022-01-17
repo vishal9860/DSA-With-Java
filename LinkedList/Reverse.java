@@ -6,6 +6,6 @@ class Reverse
   Node<String>b=new Node<>("Vitthal");
   Node<String>c=new Node<>("Sadashiv");
   Node<String>d=new Node<>("Chand");
-  
+
   }
 }
