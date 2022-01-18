@@ -20,7 +20,6 @@ traverse(head);
        System.out.println(head.data);
        traverse(head.next);
     }
-  
   public static Node<String> reverse(Node<String> head ){
     Node<String> prev=null;
     Node<String>current=head;

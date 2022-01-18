@@ -59,7 +59,5 @@ class List{
         curr=curr.next;
     }
     return curr.data;
-
-    
     }
 }
